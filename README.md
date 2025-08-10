@@ -37,10 +37,3 @@ It includes data cleaning, relational modeling, indexing for performance, analyt
 
 - Microsoft SQL Server (tested with T-SQL syntax)
 - A raw dataset matching the structure of `RawFlights` (or `airlines_flights_data` before renaming)
-
-## Usage
-
-1. **Prepare the database**
-   ```sql
-   CREATE DATABASE AirlineFlightsDB;
-   USE AirlineFlightsDB;
